@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omega-winter-247003",
+  "private_key_id": "787b6e08e101db4980f19fdf35bdf4d936932d42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPyWmUdUBaP9R9\n0ZWbjDZV6nug1bu5SzUesuKVOwCP4OyCcMf8MWweHa5IjppmJ75rNhftSNGUHeSq\n0tjoA/LDBnSTiZ39GgQXsZuYbW5/lqa18cFxZwBFOIdSkhT5NXUqw5lT8cup/Ibt\nUxW4Rdp4uRD1auvSPvOWY4CDXcygkOu6pfBIvSPutyHhyAQPoYbxvcDfpvOrHsXy\n5yq61EHvLhM1QC2bXdrgarwbnmTnVnD5Iaepq9ajC5Yqqjb4aB+sbXI9fhtAfCwL\nQWJ0Vosv4jRRwftQCfpgQpMgU+IkOrDtP0ewzZjr8AEaBZ9BHZz4aN2BonB17HLg\ndkCwV0w7AgMBAAECggEACfcH2DXTU0CyaSJPAXm09WPcb/cwHI/NyV4c3blJqpzH\n2u2bua2JGNylihdEsld/m1apyRhv7KGOYN7hxibCUrYRiy3TZNsFjTlYU/QTk4zf\nC+S/OTgOXEN8wen9lYIJz3Y3+T2kXc+djO4qIX9AHgAKHyr0ik24kuLMvAAYmy6h\n4TU7HEJsOEDMnYm0i7Hdm6DUly32lnh3ilICQr8DLIhe2UkPHJH0nVkhGvfucO5H\nCzn8gxmkxl96OcNKOKzPebfkWHG1PrKOlrArR5x0NjMaDGVSzfga+1k6FtPVFufC\nIztJMnz2A2xwWUqQQir0wsD+ymc29aSH1JKL5XzF4QKBgQD4Fhbm6M7qqbzHqNHJ\ntSr0comIKVBadRtQJSlnIyVk6LG2fPI9BElIQmzQp0juLxFWH+gltadMkdsdG94n\nnThj98ds+tKfiDuz2tzy6nGitEUKRC1IPiuGPIi+rOjznT37x8cuPGTyP00zXv1r\nXGfco4uA4UQpOqX9cB6dEtAmUQKBgQDWajsdx2lBxEi4BsMR69HFxUwmd2nCJTrt\nZA4G+OnCQ9r6HGpAmucwho4NARPxo+4eEMWK/LhkmTETYzg6XXbotHSn+MoiVcs9\nCScbF48SyLjrNsPDAqUdw8KCbOh0SntHWfhuWEudHQBT5vDxxvaCsmPfz7DXAP95\n/d+K2f3KywKBgGd0vsQ4neFaO3F/w0y8klcyVIxFvk6au3MmrCdojrWQHFwfqt0r\nJmxN1xcES/OYCUDDOYpQQJ47zQZMks4uUE/QCog16RPCOjN8t9tNTWouhwQK/l88\nHeZy5AuwC81b63dODpAHe4lSQJ2FpWTaOi3WvdxXFJek74fK89lI+SihAoGBAIKK\nEovCyFZ+BjfkBgd3JzPdNsuEkCLfP80fyVp9WPQpE7yKaDYFGRP2F63bJiVLxMER\nPPOtgSXeDn7bPXRrSuXKV+ucEJRu31m9pM1dvoGVKuApa23iwlwovtdhLvT+E6gR\nIqsrnn19FqH+TFsm4xYXPa8ZZ3S+6st+wQZsSZOZAoGBALj1psIbHJMJapHyBLL/\nGPPbWq/TmqN9L1eAbRtkRbc2K3jTDDsX93RJbHBBCccI1uvyt16FYAvieGOc7mpL\nRFt0bSrD2S9XuFYUSUx/B5103nRTelYijVwMGGzg5mgKVlpBH3jxQsNiDvY+p9hP\nLtJs+PdCNoYJgCzzL7P+fsfA\n-----END PRIVATE KEY-----\n",
+  "client_email": "dispatch-bot@omega-winter-247003.iam.gserviceaccount.com",
+  "client_id": "101542257515735944729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dispatch-bot%40omega-winter-247003.iam.gserviceaccount.com"
+}
